@@ -1,6 +1,6 @@
 # TitrateX
 
-**TitrateX** is an original web application designed, architected, and developed by **[Your Full Name]**. 
+**TitrateX** is an original web application designed, architected, and developed by **[prathmesh watane]**. 
 
 ## 🚀 Live Application Deployment
 The official production platform is fully operational and instantly accessible:
