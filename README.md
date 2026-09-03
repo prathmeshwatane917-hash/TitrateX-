@@ -2,7 +2,7 @@
 
 **TitrateX** is an original web application designed, architected, and developed by **[prathmesh watane]**. 
 
-## 🚀 Live Application Deployment
+## 🚀 Live Application Deployment 
 The official production platform is fully operational and instantly accessible:
 👉 **[Launch TitrateX Application](https://netlify.app)**
 
