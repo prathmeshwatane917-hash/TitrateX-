@@ -4,7 +4,7 @@
 
 ## 🚀 Live Application Deployment
 The official production platform is fully operational and instantly accessible:
-👉 **[Launch TitrateX Application](https://netlify.app)**
+👉 **[Launch TitrateX Application](https://titratex93.netlify.app/)**
 
 ---
 
